@@ -1,0 +1,17 @@
+body {
+  color: white;
+  background-color: #91a3b0;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  color: black;
+}
+
+.footer-links {
+  color: blue;
+}
